@@ -1,2 +1,2 @@
-# dotfiles_vijay
+# Dotfiles
 My dotfiles for setting up new machine.
