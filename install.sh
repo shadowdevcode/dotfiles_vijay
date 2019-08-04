@@ -12,7 +12,7 @@ fi
 homedir=$1
 
 # dotfiles directory
-dotfiledir=${homedir}/dotfiles_vijays
+dotfiledir=${homedir}/dotfiles
 
 # list of files/folders to symlink in ${homedir}
 files="bash_profile bashrc bash_prompt"
@@ -32,4 +32,4 @@ done
 curl "https://raw.githubusercontent.com/git/git/master/contrib/completion/git-completion.bash" > ${homedir}/.git-completion.bash
 
 # Run the Homebrew Script
-# ./brew.sh
+./brew.sh
