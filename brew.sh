@@ -13,15 +13,15 @@ brew cask install skype
 brew cask install vlc
 brew cask install postman
 brew cask install firefox
-brew cask install slack
-brew cask install postico
-brew cask install dash
-brew cask install whatsapp
+# brew cask install slack
+# brew cask install postico
+# brew cask install dash
+# brew cask install whatsapp
 brew cask install visual-studio-code
 brew install postgresql
 brew cask install pycharm
 
 # Install Source Code Pro Font
-brew tap homebrew/cask-fonts
-brew cask install font-source-code-pro
+# brew tap homebrew/cask-fonts
+# brew cask install font-source-code-pro
 
