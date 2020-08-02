@@ -7,7 +7,6 @@ brew install node
 brew install speedtest-cli
 
 # Install MacOS Applications
-# brew cask install google-chrome
 brew cask install sublime-text
 brew cask install skype
 brew cask install vlc
@@ -22,6 +21,5 @@ brew install postgresql
 brew cask install pycharm
 
 # Install Source Code Pro Font
-# brew tap homebrew/cask-fonts
-# brew cask install font-source-code-pro
-
+brew tap homebrew/cask-fonts
+brew cask install font-source-code-pro
